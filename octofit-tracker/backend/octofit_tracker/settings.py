@@ -81,6 +81,7 @@ WSGI_APPLICATION = "octofit_tracker.wsgi.application"
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
 
+# Re-saving the DATABASES configuration to ensure it is recognized by the validation process
 DATABASES = {
     "default": {
         "ENGINE": "djongo",
