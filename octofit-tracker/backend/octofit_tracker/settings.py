@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
     "workspaces-skills-build-applications-w-copilot-agent-mode-8000.app.github.dev",
+    "0.0.0.0",
 ]
 
 
